@@ -1,0 +1,25 @@
+# Dataset folders
+PlantVillage/
+PotatoPlants/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
+# Upload folder images
+static/uploads/*
+
+# Ignore all model files except your final model
+*.h5
+eff.weights.h5
